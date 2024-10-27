@@ -25,7 +25,9 @@ Solución | Accuracy
 3 | 91.23% 
 
 Podemos observar que las 3 soluciones propuestas consiguen el objetivo, clasificar si un paciente tiene cáncer de pulmón o no, con alta precisión.
+
 Además, existe un trade-off entre la precisión y la velocidad de convergencia. Por ejemplo, la solución 1 devuelve la mejor precisión entre las tres soluciones pero es la más lenta en converger, mientras que para la solución 2 es el caso contrario (menor precisión, mayor convergencia).
+
 Por último, mencionar que la realización de     esta tarea puede ayudar a la enfermedad de cáncer de pulmón y su investigación.
 
 Link a la presentación: [CancerPulmon-CE](https://www.canva.com/design/DAGT77DaQPY/xrh2jIe9eriNMWG9A1syCg/edit?utm_content=DAGT77DaQPY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
