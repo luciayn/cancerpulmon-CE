@@ -6,7 +6,6 @@
 - Lucía Yan Wu (100451764)
 
 # **Predicción de Cáncer de Pulmón - Computación Evolutiva**
-# **Predicción de Cáncer de Pulmón - Computación Evolutiva**
 
 Para la tarea de clasificación binaria presentada en la asignatura, hemos desarrollado 3 tipos de soluciones/clasificadores diferentes para predecir si un paciente tiene cáncer de pulmón o no. Para ello, hemos utilizado el dataset `LungCancer.csv`, formado por 16 columnas y 284 instancias. 
 
@@ -21,7 +20,6 @@ Los mejores resultados obtenidos para cada solución son los siguientes:
 
 Solución | Accuracy
 --- | --- 
-1 | **92.98%**
 1 | **92.98%**
 2 | 86.96%
 3 | 91.23% 
